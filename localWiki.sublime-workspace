@@ -1,0 +1,462 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"p",
+				"print"
+			],
+			[
+				"c",
+				"current_file"
+			],
+			[
+				"f",
+				"folder"
+			],
+			[
+				"curr",
+				"current_file"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"l",
+				"links"
+			],
+			[
+				"s",
+				"selection"
+			],
+			[
+				"se",
+				"selection"
+			],
+			[
+				"e",
+				"extractLink"
+			],
+			[
+				"fi",
+				"findLinkStart"
+			],
+			[
+				"r",
+				"region"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"u",
+				"urlFound"
+			],
+			[
+				"link",
+				"linkFound"
+			],
+			[
+				"ex",
+				"extractUrl"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "example.md",
+			"settings":
+			{
+				"buffer_size": 81,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/mshmidov/Dropbox/Documents/проекты/игры/dresden files/docs/wiki/docs.md",
+			"settings":
+			{
+				"buffer_size": 58,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/mshmidov/Dropbox/Documents/проекты/игры/dresden files/docs/wiki/1/nested.md",
+			"settings":
+			{
+				"buffer_size": 55,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "highlight_wiki_link.py",
+			"settings":
+			{
+				"buffer_size": 972,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "localwiki.py",
+			"settings":
+			{
+				"buffer_size": 2479,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 201.0,
+		"selected_items":
+		[
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Pa",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"sdf",
+			"f",
+			"view.run_command('open_wiki_link')",
+			"view.run_command('example')",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/mshmidov/.config/sublime-text-3/Packages/LocalWiki/localWiki.sublime-project",
+		"/home/mshmidov/.config/sublime-text-3/Packages/LocalWiki/open_wiki_link.py",
+		"/home/mshmidov/.config/sublime-text-3/Packages/LocalWiki/Default.sublime-mousemap",
+		"/home/mshmidov/.config/sublime-text-3/Packages/LocalWiki/localwiki-core.py",
+		"/home/mshmidov/.config/sublime-text-3/Packages/SideBarEnhancements/CHANGELOG",
+		"/home/mshmidov/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/mshmidov/.config/sublime-text-3/Packages/User/Markdown.sublime-settings",
+		"/home/mshmidov/.config/sublime-text-3/Packages/MarkdownEditing/Markdown.sublime-settings",
+		"/home/mshmidov/.config/sublime-text-3/Packages/LocalWiki/example.md",
+		"/home/mshmidov/.config/sublime-text-3/Packages/LocalWiki/Default.sublime-keymap",
+		"/home/mshmidov/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/mshmidov/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/mshmidov/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
+		"/home/mshmidov/Dropbox/Documents/проекты/игры/dresden files/knowledge/knowledge.sublime-project",
+		"/home/mshmidov/.config/sublime-text-3/Packages/LocalWiki/localWiki.py",
+		"/home/mshmidov/Dropbox/Documents/проекты/игры/dresden files/knowledge/other.md",
+		"/home/mshmidov/Dropbox/Documents/проекты/игры/dresden files/knowledge/test.md",
+		"/home/mshmidov/.config/sublime-text-3/Packages/User/Bold and Italic Markers.tmPreferences",
+		"/home/mshmidov/.config/sublime-text-3/Packages/MarkdownEditing/Bold and Italic Markers.tmPreferences",
+		"/home/mshmidov/Dropbox/Documents/проекты/гномы-идут-насервер/2. концепции/гномы.md",
+		"/home/mshmidov/Dropbox/Documents/проекты/гномы-идут-насервер/2. концепции/Лориэн.md",
+		"/home/mshmidov/Dropbox/Documents/проекты/гномы-идут-насервер/2. концепции/концепция игры.md",
+		"/home/mshmidov/Dropbox/Documents/проекты/гномы-идут-насервер/2. концепции/историческая справка.md",
+		"/home/mshmidov/Dropbox/Documents/проекты/гномы-идут-насервер/2. концепции/концепции локаций.md",
+		"/home/mshmidov/Dropbox/Documents/проекты/гномы-идут-насервер/исторический контекст.md",
+		"/home/mshmidov/Dropbox/Documents/проекты/гномы-идут-насервер/план работы.md",
+		"/home/mshmidov/Dropbox/Documents/проекты/гномы-идут-насервер/2. концепции/модель.md",
+		"/home/mshmidov/bin/jmeter",
+		"/home/mshmidov/Dropbox/Documents/проекты/гномы-идут-насервер/2. концепции/работа с игроком.md",
+		"/home/mshmidov/Dropbox/Documents/проекты/гномы-идут-насервер/концепции.md",
+		"/home/mshmidov/Dropbox/Documents/проекты/гномы-идут-насервер/варианты названия.md",
+		"/home/mshmidov/Dropbox/Documents/проекты/rhovanion.sublime-project",
+		"/home/mshmidov/Dropbox/Documents/проекты/гномы-идут-насервер/производство.md"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"delete_",
+			"ctrl+d",
+			"extract",
+			"Концепция"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "example.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 81,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								54,
+								54
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown Extended/Syntaxes/Markdown Extended.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/mshmidov/Dropbox/Documents/проекты/игры/dresden files/docs/wiki/docs.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 58,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								55,
+								55
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown Extended/Syntaxes/Markdown Extended.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/mshmidov/Dropbox/Documents/проекты/игры/dresden files/docs/wiki/1/nested.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 55,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown Extended/Syntaxes/Markdown Extended.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "highlight_wiki_link.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 972,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								888,
+								888
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "localwiki.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2479,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2053,
+								2053
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.unsaved_changes":
+	{
+		"height": 112.0
+	},
+	"project": "localWiki.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/Dropbox/Documents/проекты/игры/dresden files/knowledge/knowledge.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 117.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 234.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
