@@ -7,7 +7,9 @@ def get_project_folder(view):
 
         current_folder = get_current_folder(view)
 
-        return next((folder for folder in folders if os.path.commonprefix([current_folder, folder]) == current_folder))
+        for folder in folders:
+            if os.path.commonprefix([current_folder, folder]) == folder:
+                return folder
 
 
 def get_current_folder(view):
