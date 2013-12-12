@@ -48,4 +48,6 @@ class LinkReference:
     def resolve(self, view):
         root = get_project_folder(view) if self._is_abs else get_current_folder(view)
 
-        return os.path.realpath(os.path.join(root, self._joinable_reference))
+        resolved_reference = os.path.realpath(os.path.join(root, self._joinable_reference))
+
+        return resolved_reference if os.path.splitext(resolved_reference)[1] else resolved_reference + '.md'
